@@ -1,0 +1,15 @@
+C:\Users\Oleg\Desktop\ГБ\C#\Seminar6\task42\bin\Debug\net7.0\task42.exe
+C:\Users\Oleg\Desktop\ГБ\C#\Seminar6\task42\bin\Debug\net7.0\task42.deps.json
+C:\Users\Oleg\Desktop\ГБ\C#\Seminar6\task42\bin\Debug\net7.0\task42.runtimeconfig.json
+C:\Users\Oleg\Desktop\ГБ\C#\Seminar6\task42\bin\Debug\net7.0\task42.dll
+C:\Users\Oleg\Desktop\ГБ\C#\Seminar6\task42\bin\Debug\net7.0\task42.pdb
+C:\Users\Oleg\Desktop\ГБ\C#\Seminar6\task42\obj\Debug\net7.0\task42.csproj.AssemblyReference.cache
+C:\Users\Oleg\Desktop\ГБ\C#\Seminar6\task42\obj\Debug\net7.0\task42.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleg\Desktop\ГБ\C#\Seminar6\task42\obj\Debug\net7.0\task42.AssemblyInfoInputs.cache
+C:\Users\Oleg\Desktop\ГБ\C#\Seminar6\task42\obj\Debug\net7.0\task42.AssemblyInfo.cs
+C:\Users\Oleg\Desktop\ГБ\C#\Seminar6\task42\obj\Debug\net7.0\task42.csproj.CoreCompileInputs.cache
+C:\Users\Oleg\Desktop\ГБ\C#\Seminar6\task42\obj\Debug\net7.0\task42.dll
+C:\Users\Oleg\Desktop\ГБ\C#\Seminar6\task42\obj\Debug\net7.0\refint\task42.dll
+C:\Users\Oleg\Desktop\ГБ\C#\Seminar6\task42\obj\Debug\net7.0\task42.pdb
+C:\Users\Oleg\Desktop\ГБ\C#\Seminar6\task42\obj\Debug\net7.0\task42.genruntimeconfig.cache
+C:\Users\Oleg\Desktop\ГБ\C#\Seminar6\task42\obj\Debug\net7.0\ref\task42.dll
